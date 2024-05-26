@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/s19835/Discord-Bot/issues"
   },
-  "homepage": "https://github.com/s19835/Discord-Bot#readme"
+  "homepage": "https://github.com/s19835/Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  }
 }
