@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/s19835/Discord-Bot#readme",
   "dependencies": {
-    "discord.js": "^14.15.2"
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
   }
 }
