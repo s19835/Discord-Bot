@@ -37,3 +37,5 @@ for (const folder of commandFolders) {
 		}
 	}
 }
+//some codes are differ from the documentation because we are using ES module instead of commonJS
+
